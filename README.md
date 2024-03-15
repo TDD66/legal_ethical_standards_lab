@@ -31,7 +31,16 @@ Instead of selling things that have a direct impact on the gameplay experience t
 ## Scenario 3
 ### Is the company breaking any laws with their proposal?
 
+I don't believe this breaks any laws, a similar example that came to mind was something like LinkedIn with LinkedIn Premium.
+
 ### What are the ethical concerns with the company's proposal?
+
+A big concern is the sharing of user's locations with the third party to create more targetting advertisments. It makes it more difficult for user's to know how their location data is being used and who has a hold off it. So it also reduces transparency.
+
+The Free-tier users will feel as though they are having a lesser experience on the application compared to the paying users. This may compel them to buy a membership. This raises the concern of user exploitation.
 
 ### What could the company do to address these issues?
 
+The company can reduce the number of features in the paid tier and put them back into the free tier. This would reduce the discrepancy between the experience the 2 different tiers will have.
+
+They can also make it clearer as to which company will be using their location information for the targeted ads. This would improve transparency.
